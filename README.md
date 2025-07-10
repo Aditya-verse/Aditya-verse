@@ -63,13 +63,9 @@
   <br>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img
-      width="450"
-      src="https://github-readme-streak-stats.vercel.app/?user=Aditya-verse&count_private=true&theme=react&border_radius=10&hide_border=true"
-      alt="🔥 GitHub Streaks"
-      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-    />
-    <img
+
+    
+  <img
       width="450"
       src="https://github-readme-stats.vercel.app/api?username=Aditya-verse&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true"
       alt="⚙️ GitHub Stats"
