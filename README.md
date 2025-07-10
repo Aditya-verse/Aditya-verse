@@ -26,9 +26,13 @@
   <a href="mailto:adityamane.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/adityamane" target="_blank">
-    <img src="https://www.linkedin.com/in/adityamane-software-dev/style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+  
+<a href="https://www.linkedin.com/in/adityamane-software-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+  
   <a href="https://adityaverse.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
