@@ -23,9 +23,10 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:adityamane.dev@gmail.com">
+  <a href="mailto:mane.adityax@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+</div>
 
   
 <a href="https://www.linkedin.com/in/adityamane-software-dev/" target="_blank">
