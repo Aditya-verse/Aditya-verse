@@ -56,24 +56,34 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 </p>
 
+<div align="center">
+  <h1>⚡ Full Stack Developer Stats ⚡</h1>
+  <p>Showcasing my coding journey and contributions.</p>
 
-<h2 align="center">⚡ Full Stack Developer Stats ⚡</h2>
+  <br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Aditya-verse&count_private=true&theme=react&border_radius=10" alt="🔥 GitHub Streaks" />
-    </td>
-    <td align="center">
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=Aditya-verse&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="⚙️ GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>    </td>
-  </tr>
-</table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img
+      width="450"
+      src="https://github-readme-streak-stats.vercel.app/?user=Aditya-verse&count_private=true&theme=react&border_radius=10&hide_border=true"
+      alt="🔥 GitHub Streaks"
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+    />
+    <img
+      width="450"
+      src="https://github-readme-stats.vercel.app/api?username=Aditya-verse&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true"
+      alt="⚙️ GitHub Stats"
+      style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+    />
+  </div>
 
-<br/>
-<hr/>
+  <br>
+  <br>
 
+  <h2>🚀 What I'm Up To</h2>
+  <p>Explore my latest projects and contributions on GitHub!</p>
+  <a href="https://github.com/Aditya-verse" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-Aditya--verse-blue?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Profile">
+  </a>
+
+</div>
