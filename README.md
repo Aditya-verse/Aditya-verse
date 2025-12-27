@@ -34,7 +34,7 @@
 </a>
 
   
-  <a href="https://adityaverse.dev" target="_blank">
+  <a href="https://aditya-verse.github.io/sembuddy/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
