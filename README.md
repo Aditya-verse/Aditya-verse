@@ -24,38 +24,38 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```kotlin
-val developer = Developer(
-    name = "Aditya Mane",
-    location = "India 🇮🇳",
-    role = "Full Stack Developer",
-    currentFocus = "Android Development",
-    passions = listOf(
-        "Clean Code",
-        "Innovative UX/UI",
-        "Problem Solving",
-        "Continuous Learning"
-    )
-)
+Hey there! I'm **Aditya Mane**, a passionate Full Stack Developer from the vibrant tech landscape of India 🇮🇳. I'm not just writing code—I'm crafting experiences, solving real-world problems, and constantly pushing the boundaries of what's possible in software development.
 
-developer.apply {
-    workingOn("Dating App with Firebase")
-    learning("Jetpack Compose & REST APIs")
-    believe("Every line of code is a verse")
-}
-```
+### 🌟 What Drives Me
 
-<br/>
+I believe that **every line of code is a verse in a greater symphony**—a philosophy that guides my approach to development. Whether it's building sleek Android applications or architecting robust backend systems, I pour creativity and precision into every project.
 
-### 🔥 Current Endeavors
+### 🎨 My Journey
 
-- 🚀 Building an **Android Dating App** with Firebase backend
-- 📱 Mastering **Jetpack Compose** for modern UI development
-- 🌐 Exploring **REST APIs** and advanced **SharedPreferences**
-- 💡 Contributing to **open-source** projects
-- 🎨 Designing intuitive and beautiful user experiences
+From my early days experimenting with HTML to now architecting full-stack applications with Firebase, Kotlin, and modern frameworks, I've been on an incredible learning journey. I'm fascinated by the intersection of **beautiful UI/UX design** and **powerful backend architecture**, and I strive to master both worlds.
+
+### 🚀 What I'm Building
+
+Currently, I'm pouring my energy into developing an **Android Dating App** that combines intuitive design with Firebase's real-time capabilities. This project is pushing me to explore:
+- 📱 **Jetpack Compose** for creating fluid, modern UI components
+- 🔥 **Firebase Authentication & Realtime Database** for seamless user experiences
+- 🎯 **REST API Integration** for scalable backend communication
+- 💾 **Advanced SharedPreferences** for optimized local data management
+
+### 💡 Beyond Coding
+
+When I'm not knee-deep in code, you'll find me:
+- 🎓 Exploring new technologies and design patterns
+- 🌐 Contributing to open-source projects
+- 📚 Reading about software architecture and best practices
+- 🎨 Sketching UI/UX concepts in Figma
+- ☕ Enjoying a good cup of coffee while debugging
+
+### 🎯 My Mission
+
+To create software that doesn't just work, but **delights users** and makes their lives easier. I'm committed to writing clean, maintainable code and building applications that stand the test of time.
 
 <br/>
 
@@ -67,42 +67,47 @@ developer.apply {
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
 
-### 🌐 Web Development
+### 🔥 Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### 🗄️ Databases
+### 🌐 Frontend Frameworks
 <p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### 🎨 Design & Tools
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 </div>
@@ -115,13 +120,13 @@ developer.apply {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-verse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-verse&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-verse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-verse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-verse&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-verse&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-verse&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Aditya-verse&theme=tokyonight&hide_border=true" alt="Contribution Stats"/>
 
 </div>
 
@@ -130,7 +135,40 @@ developer.apply {
 <div align="center">
   
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-verse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-verse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎨 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="100" alt="Android"/>
+      <h3>🔥 Dating App</h3>
+      <p>Modern Android dating app with Firebase backend, featuring real-time chat, user matching algorithms, and beautiful Jetpack Compose UI</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="100" alt="React"/>
+      <h3>🌐 Portfolio Website</h3>
+      <p>Personal portfolio showcasing projects and skills with smooth animations and responsive design</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -143,21 +181,26 @@ developer.apply {
 <div align="center">
 
 <a href="mailto:mane.adityax@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/adityamane-software-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://aditya-verse.github.io/sembuddy/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/Aditya-verse" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 ### 💬 Got questions? Feel free to [open an issue](https://github.com/adityaverse/adityaverse/issues)!
+
+<br/>
+
+### 📈 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Aditya-verse&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -168,7 +211,12 @@ developer.apply {
 <div align="center">
 
 ### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -179,6 +227,10 @@ developer.apply {
 ### 🎵 "Every line of code is a verse in a greater symphony" 🎵
 
 **⭐ From [Aditya-verse](https://github.com/Aditya-verse) | Made with 💙 and lots of ☕**
+
+<br/>
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
 
