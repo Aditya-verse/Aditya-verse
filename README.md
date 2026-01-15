@@ -12,7 +12,7 @@
   
 ### 🚀 Crafting Digital Experiences | 🎯 Building the Future, One Line at a Time
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Android+Developer+%7C+Full+Stack+Engineer;Turning+Ideas+into+Reality;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Android+Developer+%7C+Full+Stack+Engineer;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </br>
 </div>
 
