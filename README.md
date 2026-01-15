@@ -22,46 +22,61 @@
 
 <br/>
 
-## 🎯 About Me
+<h1 align="center">Hi there, I'm Aditya Mane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<br/>
 
-Hey there! I'm **Aditya Mane**, a passionate Full Stack Developer from the vibrant tech landscape of India 🇮🇳. I'm not just writing code—I'm crafting experiences, solving real-world problems, and constantly pushing the boundaries of what's possible in software development.
+<table>
+  <tr>
+    <td valign="center">
+      <br/>
+      I'm not just writing code—I'm crafting experiences, solving real-world problems, and constantly pushing the boundaries of software development.
+      <br/><br/>
+      🌱 <strong>My Journey:</strong> From experimenting with HTML to architecting full-stack apps with <code>Firebase</code>, <code>Kotlin</code>, and modern frameworks.
+      <br/><br/>
+      🎨 <strong>My Passion:</strong> I'm fascinated by the intersection of <strong>beautiful UI/UX design</strong> and <strong>powerful backend architecture</strong>.
+      <br/><br/>
+      <blockquote>
+        "I believe that every line of code is a verse in a greater symphony."
+      </blockquote>
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
-### 🌟 What Drives Me
+<br/>
 
-I believe that **every line of code is a verse in a greater symphony**—a philosophy that guides my approach to development. Whether it's building sleek Android applications or architecting robust backend systems, I pour creativity and precision into every project.
+### 🚀 What I'm Currently Building
 
-### 🎨 My Journey
+I'm currently pouring my energy into an **Android Dating App** that combines intuitive design with real-time capabilities. 
 
-From my early days experimenting with HTML to now architecting full-stack applications with Firebase, Kotlin, and modern frameworks, I've been on an incredible learning journey. I'm fascinated by the intersection of **beautiful UI/UX design** and **powerful backend architecture**, and I strive to master both worlds.
-
-### 🚀 What I'm Building
-
-Currently, I'm pouring my energy into developing an **Android Dating App** that combines intuitive design with Firebase's real-time capabilities. This project is pushing me to explore:
-- 📱 **Jetpack Compose** for creating fluid, modern UI components
-- 🔥 **Firebase Authentication & Realtime Database** for seamless user experiences
+- 📱 **Jetpack Compose** for fluid, modern UI components
+- 🔥 **Firebase Auth & Realtime DB** for seamless user experiences
 - 🎯 **REST API Integration** for scalable backend communication
 - 💾 **Advanced SharedPreferences** for optimized local data management
+
+<br/>
 
 ### 💡 Beyond Coding
 
 When I'm not knee-deep in code, you'll find me:
-- 🎓 Exploring new technologies and design patterns
-- 🌐 Contributing to open-source projects
-- 📚 Reading about software architecture and best practices
-- 🎨 Sketching UI/UX concepts in Figma
-- ☕ Enjoying a good cup of coffee while debugging
 
-### 🎯 My Mission
-
-To create software that doesn't just work, but **delights users** and makes their lives easier. I'm committed to writing clean, maintainable code and building applications that stand the test of time.
+* 🎓 Exploring new design patterns
+* 🌐 Contributing to Open Source
+* 📚 Reading about Software Architecture
+* 🎨 Sketching UI/UX concepts in Figma
+* ☕ Enjoying a good cup of coffee while debugging
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🛠️ Tech Arsenal
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
