@@ -131,26 +131,11 @@ When I'm not knee-deep in code, you'll find me:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-verse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-verse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-verse&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Aditya-verse&theme=tokyonight&hide_border=true" alt="Contribution Stats"/>
-
-</div>
 
 <br/>
 
 <div align="center">
   
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-verse&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
 
 </div>
 
