@@ -13,13 +13,13 @@
 ### 🚀 Crafting Digital Experiences | 🎯 Building the Future, One Line at a Time
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Android+Developer+%7C+Full+Stack+Engineer;Turning+Ideas+into+Reality;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-
+</br>
 </div>
 
 <br/>
-
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<br/>
 <br/>
 
 <h1 align="center">Hi there, I'm Aditya Mane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
